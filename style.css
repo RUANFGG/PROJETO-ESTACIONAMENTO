@@ -1,0 +1,62 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    text-align: center;
+    background-color: cadetblue;
+    padding: 15px;
+}
+.header{
+    background-color: rgb(13, 13, 13);
+    width: 100%;
+    height: 40px;
+}
+h2{
+    color: white;
+    padding: 5px;
+}
+table{
+    color: white;
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 15px;
+}
+a{
+    background-color: rgb(236, 239, 229);
+    color: white;
+    cursor: pointer;
+    color: black;
+    border: 5px solid black;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+form{
+   display: flex;
+   flex-direction: column;
+   width: 350px;
+   padding: 100px;
+   margin: 10px;
+   margin-left: 380px;
+   border: 2px solid black;
+}
+input{
+   display: flex;
+   flex-direction: column;
+   width: 350px;
+   padding: 5px;
+   margin: 10px;
+}
+label{
+    margin: 0 auto;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+button{
+   width: 180px;
+   height: 30px;
+   margin-left: 100px;
+    
+}
